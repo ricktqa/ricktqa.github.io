@@ -1,0 +1,5 @@
+{
+  "name": "React Platformer",
+  "description": "A simple single-page platform game built with React, TypeScript, and Tailwind CSS. Use the arrow keys or A/D to move and Space or W/Up Arrow to jump. Reach the green platform to win!",
+  "requestFramePermissions": []
+}
