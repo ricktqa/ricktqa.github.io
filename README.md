@@ -1,1 +1,0 @@
-# ricktqa.github.io
